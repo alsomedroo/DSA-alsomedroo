@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0118-pascals-triangle) |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
