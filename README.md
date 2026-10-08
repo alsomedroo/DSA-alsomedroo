@@ -50,9 +50,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0066-plus-one) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
