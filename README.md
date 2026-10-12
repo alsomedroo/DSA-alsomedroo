@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0494-target-sum) |
+| [1092-shortest-common-supersequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
 | [1021-remove-outermost-parentheses](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1021-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
