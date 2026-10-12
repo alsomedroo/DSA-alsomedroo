@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0198-house-robber) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
 | [1021-remove-outermost-parentheses](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1143-longest-common-subsequence) |
