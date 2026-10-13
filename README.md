@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0724-find-pivot-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0055-jump-game) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2778-sum-of-squares-of-special-elements) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
