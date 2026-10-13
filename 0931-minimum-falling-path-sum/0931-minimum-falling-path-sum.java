@@ -1,7 +1,7 @@
 class Solution {
     int[][] dp;
     public int fn(int r, int c, int n, int[][] matrix){
-        if(c<0 || c>=n)return Integer.MAX_VALUE/2;
+        if(c<0 || c>=n)return Integer.MAX_VALUE;
         if(r==n-1){
             return matrix[r][c];
         } 
