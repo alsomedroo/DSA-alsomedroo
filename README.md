@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0343-integer-break) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0518-coin-change-ii) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
