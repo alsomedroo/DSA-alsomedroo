@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0931-minimum-falling-path-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Simulation
