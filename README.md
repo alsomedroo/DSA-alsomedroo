@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0494-target-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0343-integer-break) |
 ## Prefix Sum
 |  |
 | ------- |
