@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
