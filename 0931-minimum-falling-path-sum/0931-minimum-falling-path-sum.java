@@ -1,28 +1,25 @@
 class Solution {
+    int ans;
     int[][] dp;
-    public int fn(int r, int c, int n, int[][] matrix){
-        //if(c<0 || c>=n)return Integer.MAX_VALUE;
-        if(r==n-1){
-            return matrix[r][c];
-        } 
+    public int fn(int i, int j, int n, int[][] matrix){
+        if(j>=n || j<0)return Integer.MAX_VALUE;
+        if(dp[i][j]!=Integer.MAX_VALUE)return dp[i][j];
+        if(i==n-1) return dp[i][j] = matrix[i][j];
         
-        if(dp[r][c]!=10000000)return dp[r][c];
-        int x = Integer.MAX_VALUE;
-        if(c>0)x = fn(r+1,c-1,n,matrix);
-        int y = fn(r+1,c,n,matrix);
-        int z = Integer.MAX_VALUE;
-        if(c<n-1) z = fn(r+1,c+1,n,matrix);
-        return dp[r][c] = matrix[r][c]+Math.min(x,Math.min(y,z));
+        int x = fn(i+1,j-1,n,matrix);
+        int y = fn(i+1,j,n,matrix);
+        int z = fn(i+1,j+1,n,matrix);
+        return dp[i][j] = matrix[i][j] + Math.min(x,Math.min(y,z));
     }
     public int minFallingPathSum(int[][] matrix) {
         int n = matrix.length;
-        int ans = Integer.MAX_VALUE;
-        dp = new int[n][n];
-        for(int[] x: dp)Arrays.fill(x,10000000);
+        ans = Integer.MAX_VALUE;
+        dp = new int[n+1][n+1];
+        for(int[] dpp: dp)Arrays.fill(dpp,Integer.MAX_VALUE);
         for(int i = 0 ; i<n ; i++){
-            dp[0][i] = fn(0,i,n,matrix);
-            ans = Math.min(dp[0][i],ans);
+            ans = Math.min(fn(0,i,n,matrix),ans);
         }
+
         return ans;
     }
 }
