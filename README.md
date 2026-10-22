@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0062-unique-paths) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0474-ones-and-zeroes) |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
