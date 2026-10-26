@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0322-coin-change) |
+| [0376-wiggle-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0494-target-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0343-integer-break) |
+| [0376-wiggle-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0494-target-sum) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0055-jump-game) |
+| [0376-wiggle-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0376-wiggle-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Knapsack Problem
