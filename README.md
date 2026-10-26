@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0474-ones-and-zeroes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0343-integer-break) |
+| [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0474-ones-and-zeroes) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Breadth-First Search
@@ -256,5 +260,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
