@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0376-wiggle-subsequence) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
