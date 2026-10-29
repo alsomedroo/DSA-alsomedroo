@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0724-find-pivot-index) |
 | [0931-minimum-falling-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0931-minimum-falling-path-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1092-shortest-common-supersequence) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0376-wiggle-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3727-maximum-alternating-sum-of-squares) |
