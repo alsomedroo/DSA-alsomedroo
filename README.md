@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0931-minimum-falling-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 | [1092-shortest-common-supersequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -286,9 +287,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Tree
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
+## Binary Tree
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
