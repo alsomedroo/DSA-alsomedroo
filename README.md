@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0494-target-sum) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## String
 |  |
 | ------- |
@@ -305,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+## Bitmask
+|  |
+| ------- |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 <!---LeetCode Topics End-->
