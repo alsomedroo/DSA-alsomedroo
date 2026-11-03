@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0496-next-greater-element-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0343-integer-break) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3727-maximum-alternating-sum-of-squares) |
