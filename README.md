@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0724-find-pivot-index) |
 | [0931-minimum-falling-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0931-minimum-falling-path-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Breadth-First Search
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0005-longest-palindromic-substring) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Manacher
 |  |
 | ------- |
