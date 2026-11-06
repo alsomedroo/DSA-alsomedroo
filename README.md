@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0322-coin-change) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Complete Knapsack
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 ## DP on Trees
 |  |
