@@ -14,16 +14,17 @@
  * }
  */
 class Solution {
-    int d;
-    public void fn(TreeNode root, int c){
+    int ans;
+    public void fn(TreeNode root, int d){
         if(root==null)return;
-        d=Math.max(c,d);
-        fn(root.left,c+1);
-        fn(root.right,c+1);
+        ans = Math.max(d,ans);
+        fn(root.left,d+1);
+        fn(root.right,d+1);
     }
     public int maxDepth(TreeNode root) {
-        d=0;
+        ans = 0;
+        if(root==null)return ans;
         fn(root,1);
-        return d;
+        return ans;
     }
 }
