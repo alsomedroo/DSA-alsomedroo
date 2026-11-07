@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
