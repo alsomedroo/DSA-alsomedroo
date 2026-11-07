@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Complete Knapsack
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0226-invert-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 ## DP on Trees
