@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0494-target-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## String
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0257-binary-tree-paths) |
 | [0474-ones-and-zeroes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0583-delete-operation-for-two-strings) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0257-binary-tree-paths) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0257-binary-tree-paths) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0617-merge-two-binary-trees) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
