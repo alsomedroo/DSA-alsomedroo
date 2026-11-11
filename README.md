@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [3693-climbing-stairs-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
