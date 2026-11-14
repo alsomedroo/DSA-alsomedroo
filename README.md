@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Monotonic Stack
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Complete Knapsack
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
