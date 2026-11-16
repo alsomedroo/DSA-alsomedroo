@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1302-deepest-leaves-sum) |
+| [1609-even-odd-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1609-even-odd-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Complete Knapsack
 |  |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1302-deepest-leaves-sum) |
+| [1609-even-odd-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1302-deepest-leaves-sum) |
+| [1609-even-odd-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1609-even-odd-tree) |
 ## DP on Trees
 |  |
 | ------- |
