@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1021-remove-outermost-parentheses) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0257-binary-tree-paths) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0257-binary-tree-paths) |
@@ -461,9 +464,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
