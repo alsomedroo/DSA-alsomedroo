@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0931-minimum-falling-path-sum) |
 | [1110-delete-nodes-and-return-forest](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1110-delete-nodes-and-return-forest) |
 | [1267-count-servers-that-communicate](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -173,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0343-integer-break) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1352-product-of-the-last-k-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1352-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0173-binary-search-tree-iterator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -514,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
