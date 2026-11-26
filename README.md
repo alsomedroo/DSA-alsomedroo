@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Monotonic Stack
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1302-deepest-leaves-sum) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1302-deepest-leaves-sum) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1302-deepest-leaves-sum) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1302-deepest-leaves-sum) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -480,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0968-binary-tree-cameras) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -521,11 +527,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Data Stream
 |  |
 | ------- |
