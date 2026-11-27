@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0066-plus-one) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0112-path-sum) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0112-path-sum) |
@@ -552,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/1352-product-of-the-last-k-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alsomedroo/DSA-alsomedroo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
