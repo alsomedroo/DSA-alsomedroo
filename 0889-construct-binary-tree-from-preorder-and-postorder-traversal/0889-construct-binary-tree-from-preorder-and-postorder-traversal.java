@@ -20,8 +20,7 @@ class Solution {
         if(i>j || it>=n)return null;
         TreeNode root = new TreeNode(preorder[it++]);
         if(i==j)return root;
-        int x = -1;
-        if(it<n)x = hm.get(preorder[it]);
+        int x = hm.get(preorder[it]);
         
         root.left = fn(preorder,postorder,i,x,n);
         root.right = fn(preorder,postorder,x+1,j-1,n);
